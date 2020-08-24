@@ -1,12 +1,2 @@
 # Blogs
-fsf
-sfs
-fs
-fsf
-sf
-sf
-sf
-sff
-sf
-s
-TESTING
+This repo contains blogs about Machine Learning.
